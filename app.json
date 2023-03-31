@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "27329085",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "0fb41ad125032deac1578a599aefec48",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6068118800:AAEgWgUOk21GIB6HNfa-iti4DqE26BE7ImM",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Lisa:Lisa@lisa.r1bgylg.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "🥀 ᑢᒪᑘᗷ 🥀 music ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6181792815",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQGrlg0ApWqWAtgvZ1fIliU9QU7MAOjatRBWavDt-ZDIZoHBw0oVJ2zhAEuumhGg3tstXzZRhql2o4njUBTMubwu7KB_enL4109obbUmeW8UcxS8t5CtZS1gV06PztVYgJsx-uR32bsyMpLLWwM59uCELza63WbyhvYiCwhTeYgwuXUvFoJ0JolBUZD7D0VTocS0EZKimDph3JARyr_dle2-jQAlAbdpGhV5tCtnrRBP7yd9UW_TGpGpxTRcZQfQumoHVYLPm8KMHLQmSitJDoRMgZ5OLLd1B5IbVRdOLfCUh5HZrRJF0gXWPAViLHLgJMBMWKQo181-4m14B5d2qBYyuhaBzwAAAAFlkp7eAA 
+        "value": "BQCist2IFrvU_2o7oovASa8DdHeIu5mwYg8Wj9P7D5MTBWmSuSMkJq8SBIN0iOT73GDTEn37vbFQMpCzl9GYaHWcamYzifMaBpCztG9ewrgHqKFeTxqVseojGw-Hsr40tmg6-YhWGf2YbcxikJshJgYjVjO7-CIf8D565vjlWH3blwcB17w_gLgBWlu4lgX9lADLPDZc67F3Ppq-874ZgQHNwlNJ7Dvvjmb3XvCxw_DRWyy6UoMIqUnwdwjD3w8n9cLqUNIJKfzQYVlmZTcINNxuoWbg2jMBc-hJMxrLFIkMsk3TiMg3EiHz9QESDbkBZUO1MEWWaCHpR1yDDof1ZOKDAAAAAWWSnt4A" 
 
 ",
         "required": true
@@ -61,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001861990174",
         "required": true
       }
     },
